@@ -1,4 +1,3 @@
-
 makeCacheMatrix <- function(x = matrix()) {
         ## Create a matrix that cache its inverse
         m <- NULL
